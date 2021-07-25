@@ -1,0 +1,14 @@
+.minHeight{
+    min-height: 20vh;
+}
+
+.grad {
+    background-image: linear-gradient(to right, rgb(12, 103, 207) , rgb(0, 7, 110));
+  }
+
+  .contactMeBox{
+      background-color: lightgrey;
+      outline-color: gray;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
